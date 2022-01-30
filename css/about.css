@@ -1136,7 +1136,7 @@ body {
 }
 
 .shop__imgsix {
-  background-image: url(../imagesg/pen-right.jpg');
+  background-image: url('.imagesg/pen-right.jpg');
   width: 416px;
   height: 442px;
   background-repeat: no-repeat;
@@ -1148,7 +1148,7 @@ body {
 .shop__item:hover .shop__imgsix {
   position: relative;
   top: -10px;
-  background-image: url(../imagesg/en-left.jpg');
+  background-image: url('../imagesg/en-left.jpg');
   width: 416px;
   height: 442px;
   background-repeat: no-repeat;
