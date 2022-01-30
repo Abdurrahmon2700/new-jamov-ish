@@ -1136,7 +1136,7 @@ body {
 }
 
 .shop__imgsix {
-  background-image: url('.imagesg/pen-right.jpg');
+  background-image: url('../images/pen-right.jpg');
   width: 416px;
   height: 442px;
   background-repeat: no-repeat;
@@ -1148,7 +1148,7 @@ body {
 .shop__item:hover .shop__imgsix {
   position: relative;
   top: -10px;
-  background-image: url('../imagesg/en-left.jpg');
+  background-image: url('../images/pen-left.jpg');
   width: 416px;
   height: 442px;
   background-repeat: no-repeat;
@@ -1972,7 +1972,7 @@ body {
  width: 68%;
  height: 100%;
  z-index: 1;
- background-image: url(../img/red-bgc-img1.png);
+ background-image: url('../img/red-bgc-img1.png');
  background-position: 100% 0;
  background-size: cover;
  background-repeat: no-repeat;
@@ -1985,7 +1985,7 @@ body {
   width: 50%;
   height: 100%;
   z-index: 0;
-  background-image: url(../img/pages-corusel-img.jpg);
+  background-image: url('../img/pages-corusel-img.jpg');
   background-position: center;
   background-size:cover;
   background-repeat: no-repeat;
@@ -2281,7 +2281,7 @@ body {
   width: 68%;
   height: 100%;
   z-index: 1;
-  background-image: url(../img/red-bgc-img2.png);
+  background-image: url('../img/red-bgc-img2.png');
   background-position: left;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2294,7 +2294,7 @@ body {
   width: 50%;
   height: 100%;
   z-index: 0;
-  background-image: url(../img/pages-img-last.jpg);
+  background-image: url('../img/pages-img-last.jpg');
   background-position: center;
   background-size:cover;
   background-repeat: no-repeat;
